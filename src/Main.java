@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Ball LegBreakBall=new Ball();
+        Spin spin = new Spin();
+        LegBreakBall.Googley();
     }
 }
